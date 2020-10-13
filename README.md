@@ -1,6 +1,6 @@
 ### Hi, 这里是iseki呢 👋
 
-<a href="https://github.com/cpdyj/"><img src="https://github-readme-stats.vercel.app/api?username=cpdyj" /></a>
+<a href="https://github.com/cpdyj/"><img src="https://github-readme-stats.vercel.app/api?username=cpdyj#?" /></a>
 <br />
 <a href="https://github.com/cpdyj/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpdyj" /></a>
 
