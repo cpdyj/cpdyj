@@ -1,8 +1,8 @@
 ### Hi, 这里是iseki呢 👋
 
-<div style="background-image: url('https://github-readme-stats.vercel.app/api?username=cpdyj')"></div>
+<div"><img src="https://github-readme-stats.vercel.app/api?username=cpdyj&t=awsl"/></div>
 <br />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=cpdyj" /> -->
+<!--  -->
 <a href="https://github.com/cpdyj/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpdyj" /></a>
 
 ### Contact
