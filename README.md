@@ -3,7 +3,7 @@
 <div><img src="https://github-readme-stats.vercel.app/api?username=cpdyj&t=awsl"/></div>
 <br />
 <!--  -->
-<a href="https://github.com/cpdyj/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpdyj" /></a>
+<a href="https://github.com/cpdyj/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpdyj&" /></a>
 
 ### Contact
 
